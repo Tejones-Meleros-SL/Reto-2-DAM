@@ -10,3 +10,12 @@
 [submodule "Sistemas Informaticos"]
 	path = Sistemas Informaticos
 	url = https://github.com/Tejones-Meleros-SL/Sistemas-Informaticos
+[submodule "Sistema de Gestion Empresarial"]
+	path = Sistema de Gestion Empresarial
+	url = https://github.com/Tejones-Meleros-SL/Sistemas-Gestion-Empresarial
+[submodule "Programacion Servicios y Procesos"]
+	path = Programacion Servicios y Procesos
+	url = https://github.com/Tejones-Meleros-SL/Programacion-Servicios-y-Procesos
+[submodule "Programacion Multimedia y Dispositivos Moviles"]
+	path = Programacion Multimedia y Dispositivos Moviles
+	url = https://github.com/Tejones-Meleros-SL/Programacion-Multimedia-y-Dispositivos-Moviles
