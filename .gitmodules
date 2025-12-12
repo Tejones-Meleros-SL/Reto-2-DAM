@@ -1,21 +1,21 @@
 [submodule "Acceso a Datos"]
 	path = Acceso a Datos
-	url = https://github.com/Tejones-Meleros-SL/Acceso-a-Datos
+	url = git@clase.github.com:Tejones-Meleros-SL/Acceso-a-Datos
 [submodule "Data Analitycs"]
 	path = Data Analitycs
-	url = https://github.com/Tejones-Meleros-SL/Data-Analitycs
+	url = git@clase.github.com:Tejones-Meleros-SL/Data-Analitycs
 [submodule "Desarrollo de Interfaces"]
 	path = Desarrollo de Interfaces
-	url = https://github.com/Tejones-Meleros-SL/Desarrollo-Interfaces
+	url = git@clase.github.com:Tejones-Meleros-SL/Desarrollo-Interfaces
 [submodule "Sistemas Informaticos"]
 	path = Sistemas Informaticos
-	url = https://github.com/Tejones-Meleros-SL/Sistemas-Informaticos
+	url = git@clase.github.com:Tejones-Meleros-SL/Sistemas-Informaticos
 [submodule "Sistema de Gestion Empresarial"]
 	path = Sistema de Gestion Empresarial
-	url = https://github.com/Tejones-Meleros-SL/Sistemas-Gestion-Empresarial
+	url = git@clase.github.com:Tejones-Meleros-SL/Sistemas-Gestion-Empresarial
 [submodule "Programacion Servicios y Procesos"]
 	path = Programacion Servicios y Procesos
-	url = https://github.com/Tejones-Meleros-SL/Programacion-Servicios-y-Procesos
+	url = git@clase.github.com:Tejones-Meleros-SL/Programacion-Servicios-y-Procesos
 [submodule "Programacion Multimedia y Dispositivos Moviles"]
 	path = Programacion Multimedia y Dispositivos Moviles
-	url = https://github.com/Tejones-Meleros-SL/Programacion-Multimedia-y-Dispositivos-Moviles
+	url = git@clase.github.com:Tejones-Meleros-SL/Programacion-Multimedia-y-Dispositivos-Moviles
