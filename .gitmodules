@@ -7,3 +7,6 @@
 [submodule "Desarrollo de Interfaces"]
 	path = Desarrollo de Interfaces
 	url = https://github.com/Tejones-Meleros-SL/Desarrollo-Interfaces
+[submodule "Sistemas Informaticos"]
+	path = Sistemas Informaticos
+	url = https://github.com/Tejones-Meleros-SL/Sistemas-Informaticos
