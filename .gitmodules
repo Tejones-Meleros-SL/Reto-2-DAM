@@ -1,3 +1,9 @@
 [submodule "Acceso a Datos"]
 	path = Acceso a Datos
 	url = https://github.com/Tejones-Meleros-SL/Acceso-a-Datos
+[submodule "Data Analitycs"]
+	path = Data Analitycs
+	url = https://github.com/Tejones-Meleros-SL/Data-Analitycs
+[submodule "Desarrollo de Interfaces"]
+	path = Desarrollo de Interfaces
+	url = https://github.com/Tejones-Meleros-SL/Desarrollo-Interfaces
