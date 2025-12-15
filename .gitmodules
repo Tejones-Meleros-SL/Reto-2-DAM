@@ -19,3 +19,12 @@
 [submodule "Programacion Multimedia y Dispositivos Moviles"]
 	path = Programacion Multimedia y Dispositivos Moviles
 	url = git@clase.github.com:Tejones-Meleros-SL/Programacion-Multimedia-y-Dispositivos-Moviles
+[submodule "IPE"]
+	path = IPE
+	url = https://github.com/Tejones-Meleros-SL/IPE
+[submodule "Sostenibilidad"]
+	path = Sostenibilidad
+	url = https://github.com/Tejones-Meleros-SL/Sostenibilidad
+[submodule "Digitalizacion"]
+	path = Digitalizacion
+	url = https://github.com/Tejones-Meleros-SL/Digitalizacion
