@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|c:\\users\\marke\\desktop\\dam2\\reto\\acceso a datos\\reto ad\\historialventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|solutionrelative:historialventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\historialventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|solutionrelative:historialventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\nuevacomanda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|solutionrelative:nuevacomanda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\stock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|solutionrelative:stock.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|solutionrelative:principal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|solutionrelative:producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{91F7C316-6E98-47D6-B1E9-A4335BFA760F}|RETO AD.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistorialVentas.vb",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\HistorialVentas.vb",
+              "RelativeDocumentMoniker": "HistorialVentas.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\HistorialVentas.vb",
+              "RelativeToolTip": "HistorialVentas.vb",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-13T07:15:20.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\Stock.vb",
+              "RelativeDocumentMoniker": "Stock.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\Stock.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Stock.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-13T07:02:30.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.vb",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\Producto.vb",
+              "RelativeDocumentMoniker": "Producto.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\Producto.vb",
+              "RelativeToolTip": "Producto.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-13T07:02:27.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Principal.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\Principal.vb",
+              "RelativeDocumentMoniker": "Principal.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\Principal.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Principal.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-13T07:02:26.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NuevaComanda.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\NuevaComanda.vb",
+              "RelativeDocumentMoniker": "NuevaComanda.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\NuevaComanda.vb [Dise\u00F1o]",
+              "RelativeToolTip": "NuevaComanda.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-13T07:02:25.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistorialVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\HistorialVentas.vb",
+              "RelativeDocumentMoniker": "HistorialVentas.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\HistorialVentas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "HistorialVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-13T07:02:24.38Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\marke\\Desktop\\DAM2\\Reto\\Acceso a Datos\\RETO AD\\Login.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Login.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-13T07:02:22.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
